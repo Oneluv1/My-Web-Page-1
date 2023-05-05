@@ -1,0 +1,61 @@
+body{
+  background-image: linear-gradient(to bottom,rgb(238, 245, 229),rgb(134, 168, 247));
+  
+}
+.tit{
+  color:  #122ada; 
+ 
+  margin-top: 0px;
+  
+}
+.face1{
+  height: 400px;
+  width: 500px;
+  border: solid;
+  border-color: rgb(145, 121, 136);
+  border-radius: 15px;
+  margin-left: 70px;
+}
+.face2{
+  height: 400px;
+  width: 500px;
+  border: solid;
+  border-color: rgb(131, 58, 232);
+  border-radius: 15px;
+  margin-left: 40px;
+}
+.par{
+  width: 900px;
+  margin-left: 100px;
+}
+.para{
+  text-align: justify;
+  margin-top: -12px;
+  color:rgb(38, 36, 34) ;
+}
+.click{
+  margin-top: -55px;
+  margin-left: 940px;
+  position: absolute;
+  padding: 10px 30px;
+  font-size: large;
+  border-radius: 8px;
+  border: none;
+  color: rgb(12, 12, 12);
+  background-color: aquamarine;
+  font-weight: bold;
+}
+.par button:hover{
+  background-color: blue;
+color: yellow;
+transition: 1s;
+cursor: pointer;
+
+}
+.result{
+  color: rgb(37, 30, 243);
+  font-weight: bolder;
+  font-size: larger;
+  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+  margin-left: 770px;
+}
